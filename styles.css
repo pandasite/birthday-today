@@ -1,6 +1,6 @@
 /* Gaya khusus untuk halaman */
 body {
-  min-height: 50vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
 }
@@ -17,7 +17,7 @@ main {
 }
 
 .card p {
-  color: #ffffff; /* Warna teks pada celebrity cards menjadi putih */
+  color: #000000; /* Warna teks pada celebrity cards menjadi putih */
 }
 
 footer {
