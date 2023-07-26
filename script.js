@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        limit: 31, // Ganti angka 10 dengan jumlah data yang Anda inginkan, maksimal 100.
+        limit: 30, // Ganti angka 10 dengan jumlah data yang Anda inginkan, maksimal 100.
         response: 'json',
       }),
     });
